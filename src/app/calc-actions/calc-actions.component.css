@@ -1,0 +1,8 @@
+.calculator-actions {
+    margin-top: 20px;
+  }
+  
+  .calculator-actions .btn {
+    width: 50%;
+    margin-bottom: 10px;
+  }
